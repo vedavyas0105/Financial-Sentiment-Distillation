@@ -60,17 +60,12 @@ The model achieved an accuracy of approximately 76% on the validation set. Evalu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/FinSentDistill.git
+   git clone https://github.com/vedavyas0105/FinSentDistill.git
    ```
 
 2. Navigate to the project directory:
    ```bash
    cd FinSentDistill
-   ```
-
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ## Usage
