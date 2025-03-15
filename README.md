@@ -18,7 +18,7 @@ The dataset used is a financial news dataset from Kaggle, consisting of labeled 
 
 ## Model Architecture
 
-- **Teacher Model:** `ProsusAI/finbert` (a BERT-based model fine-tuned on financial texts).
+- **Teacher Model:** `finbert` (a BERT-based model fine-tuned on financial texts).
 - **Student Model:** `distilbert-base-uncased` further fine-tuned using knowledge distillation.
 
 The student model architecture includes:
